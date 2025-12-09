@@ -2,4 +2,9 @@
 *
 !.gitignore
 !README.md
+!duality-ai-lunate-ai-geospatial-object-detection/
+!duality-ai-lunate-ai-geospatial-object-detection/scripts/
+!duality-ai-lunate-ai-geospatial-object-detection/scripts/runs/
+!duality-ai-lunate-ai-geospatial-object-detection/scripts/runs/detect/
+!duality-ai-lunate-ai-geospatial-object-detection/scripts/runs/detect/*/
 !duality-ai-lunate-ai-geospatial-object-detection/scripts/runs/detect/*/results.png
