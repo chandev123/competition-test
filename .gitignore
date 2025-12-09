@@ -1,3 +1,5 @@
 # Ignore everything
 *
 !.gitignore
+!README.md
+!duality-ai-lunate-ai-geospatial-object-detection/scripts/runs/detect/*/results.png
