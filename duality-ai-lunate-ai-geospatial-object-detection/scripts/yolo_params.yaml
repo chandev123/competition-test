@@ -1,0 +1,10 @@
+
+#Add your own path(s), ex: [train/images, train2/images]
+train: C:/Dev/rokey/DualityAI_Kaggle_251209_2049/duality-ai-lunate-ai-geospatial-object-detection/Output_1/2025-12-09-11-30-29/train/images
+
+#Add your own path(s), ex:[val/images, val/images]
+val: C:/Dev/rokey/DualityAI_Kaggle_251209_2049/duality-ai-lunate-ai-geospatial-object-detection/Output_1/2025-12-09-11-30-29/val/images 
+
+test: ./../testImages
+nc: 2
+names: ['building', 'vehicle']

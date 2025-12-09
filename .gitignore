@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Large Data & Outputs
+*.zip
+Output_1/
+duality-ai-lunate-ai-geospatial-object-detection/testImages/
+duality-ai-lunate-ai-geospatial-object-detection/scripts/runs/
+duality-ai-lunate-ai-geospatial-object-detection/scripts/predictions/
+duality-ai-lunate-ai-geospatial-object-detection/scripts/predictions_*/
+duality-ai-lunate-ai-geospatial-object-detection/scripts/__pycache__/
+
+# Model Weights (Large files)
+*.pt
+*.pth
+*.onnx
+
+# Generated CSVs
+submission.csv
+submission_*.csv
+duality-ai-lunate-ai-geospatial-object-detection/scripts/submission.csv
+
+# System
+Thumbs.db
+Desktop.ini
